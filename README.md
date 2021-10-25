@@ -84,4 +84,4 @@ PIG商业版 平台提供的通用业务功能，目前主要包括权限管理�
 
 ├ └── PIGX-sentinel-dashboard -- sentinel 控制台[5005]
 
-点我获取资料 https://mfk.hllfy.top
+加QQ一起学习探讨 1308137826
